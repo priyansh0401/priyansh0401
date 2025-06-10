@@ -170,13 +170,6 @@
   </a>
 </div>
 
----
-
-
-💭 Daily Developer Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Developer Quote" />
-</div>
 
 
 ---
