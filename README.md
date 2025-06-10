@@ -1,49 +1,108 @@
-<!-- animated welcome -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+👋,+I+am+Priyansh+Goel!;CS+Undergrad+at+Thapar+University;Web+Dev,+DSA,+Music,+Magic!&center=true&width=500&height=50" />
-</h1>
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /> 
-  <strong>Welcome to my universe! 🌌</strong>
-</p>
+###
 
----
+<div align="center">
+  <img height="200" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171841_ek6D8jhk0oh3rwQgSkBdDHcatLaJZ4iQ.jpg"  />
+</div>
 
-<!-- ASCII or Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1C2C,100:928DAB&height=180&section=header&text=Priyansh%20Goel&fontSize=45&fontColor=FFFFFF&animation=fadeIn" />
-</p>
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="60" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+</div>
 
-<!-- About Section -->
-## 🙋‍♂️ About Me
+###
 
-```js
-const priyansh = {
-  university: "Thapar Institute of Engineering & Technology",
-  year: "3rd Year 🎓",
-  major: "Computer Science",
-  techStack: ["C++", "Python", "JavaScript", "React", "Next.js", "Django", "Node.js", "Express", "MongoDB", "SQL"],
-  tools: ["Git", "GitHub", "VS Code", "Postman"],
-  hobbies: ["🎸 Playing Guitar", "🎤 Singing", "🎧 Listening to Music"],
-  motto: "Build. Break. Learn. Repeat.",
-};
-<!-- Skills Section with icons -->
-💻 Tech Toolbox
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+</div>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,py,js,react,nextjs,django,nodejs,express,mongodb,mysql,postgres,git,github,vscode&perline=7" /> </p>
-<!-- GitHub Stats -->
-📊 GitHub Stats
+###
 
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyansh0401&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=priyansh0401&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansh0401&bg_color=0d1117&color=00c2cb&line=00ffcb&point=ffffff&area=true&hide_border=true" /> </p>
-<!-- Music & Fun Section -->
-🎶 Beyond Code...
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyansh0401&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyansh0401&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=priyansh0401&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=priyansh0401&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansh0401&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-<div align="center"> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180" /> <img src="https://media.giphy.com/media/l0MYAui9kzUO2fTaY/giphy.gif" width="180" /> <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="180" /> </div>
-When not coding, I’m jamming 🎸 to some tunes or singing out loud. Music helps me code better. Try it sometime 😉
-📫 Let’s Connect
+###
 
-<p align="center"> <a href="https://www.linkedin.com/in/priyanshgoel/"> <img src="https://img.shields.io/badge/LinkedIn-PriyanshGoel-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:priyansh0401@gmail.com"> <img src="https://img.shields.io/badge/Gmail-priyansh0401@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/priyansh0401"> <img src="https://img.shields.io/badge/GitHub-priyansh0401-171515?style=for-the-badge&logo=github" /> </a> </p>
-<!-- Footer --> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:928DAB,100:1F1C2C&height=120&section=footer" /> </p> ```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyansh0401/priyansh0401/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyansh0401/priyansh0401/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/priyansh0401/priyansh0401/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/priyansh0401/count.svg?"  />
+</div>
+
+###
