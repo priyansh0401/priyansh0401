@@ -1,11 +1,23 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+# <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=Hey+%F0%9F%91%8B+What's+Up%3F;Welcome+to+my+GitHub!;Let's+build+something+amazing!" alt="Animated Typing" />
+</div>
 
-###
+---
 
+## 🚀 About Me
 
+**A Passionate Computer Science Student from Thapar Institute**
 
-###
+🔭 **Currently Working On:** Data Structures & Algorithms (DSA)  
+🌱 **Currently Learning:** MERN Stack Development  
+💬 **Ask Me About:** C++, Web Development, SQL, or Leetcode Strategies  
+⚡ **Fun Fact:** I love building cool projects that solve real-world problems!
 
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
@@ -18,7 +30,10 @@
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
+</div>
+
+### 🎨 Frontend
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
@@ -29,12 +44,22 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
+</div>
+
+### ⚙️ Backend & Frameworks
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
+</div>
+
+### 🤖 AI/ML & Data Science
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
@@ -42,13 +67,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
-  <img width="12" />
+</div>
+
+### 🗄️ Databases
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo"  />
+</div>
+
+### 🛠️ Tools & Platforms
+<div align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
@@ -57,10 +88,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
@@ -68,7 +95,9 @@
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="60" alt="discord logo"  />
 </div>
 
-###
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -79,16 +108,15 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
 </div>
 
-###
+---
 
+## 📊 GitHub Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyansh0401/priyansh0401/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyansh0401/priyansh0401/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/priyansh0401/priyansh0401/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 
 <div align="center">
   
@@ -97,14 +125,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansh0401&radius=16&theme=github-dark&area=true&order=5&color=2dba4e&hide_title=false&line=2dba4e&point=2dba4e&title_color=2dba4e&area_color=2dba4e" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-
-
-
+---
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/priyansh0401/count.svg?"  />
 </div>
-
-###
