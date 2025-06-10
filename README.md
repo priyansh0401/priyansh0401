@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://icon2.cleanpng.com/lnd/20240806/uc/a1e8295817452f5e68658dc5015670.webp"  />
+  <img height="200" src="https://img.lovepik.com/png/20231112/programmer-clipart-developer-sitting-behind-his-computer-in-glasses-cartoon_567600_wh1200.png"  />
 </div>
 
 ###
