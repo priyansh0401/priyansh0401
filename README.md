@@ -1,10 +1,8 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
-###
 
-<div align="center">
-  <img height="200" src="https://img.lovepik.com/png/20231112/programmer-clipart-developer-sitting-behind-his-computer-in-glasses-cartoon_567600_wh1200.png"  />
-</div>
+
+
 
 ###
 
