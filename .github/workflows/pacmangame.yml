@@ -1,44 +1,35 @@
-name: Generate Pac-Man Contribution Graph
+name: Update Pac-Man Contribution Graph
 
 on:
-  # Runs daily at midnight UTC
   schedule:
-    - cron: '0 0 * * *'
-  # Also allows manual trigger and runs on push to main
+    - cron: '0 0 * * *'  # Runs every day at midnight UTC
   workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Set up Python
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-
-      # Run your Pac-Man animation generator script
-      - name: Generate Pac-Man animation
+      - name: Switch to output branch
         run: |
-          python generate_pacman.py  # Replace with your actual script name if different
-
-      # Push the generated SVG(s) to the output branch
-      - name: Push output to the output branch
-        run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
           git fetch origin
           git switch --create output || git switch output
+
+      - name: Copy Pac-Man SVGs to root
+        run: |
           rm -rf *
-          cp path/to/generated/*.svg .  # Replace with actual path to SVGs
+          cp -r pacman-assets/*.svg .  # Make sure this path matches where your SVGs are
+
+      - name: Commit and push changes
+        run: |
           git add .
           git commit -m "Update Pac-Man contribution graph" || echo "No changes to commit"
           git push origin output
