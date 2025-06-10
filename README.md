@@ -178,6 +178,14 @@
 
 ---
 
+
+💭 Daily Developer Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Developer Quote" />
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <a href="https://github.com/priyansh0401" target="_blank">
