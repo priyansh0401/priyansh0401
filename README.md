@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://images.creativefabrica.com/products/previews/2024/03/08/5WxZNiBA0/2dPVJcOS0XtBIinwWjY4R4KS3JY-mobile.jpg"  />
+  <img height="200" src="https://icon2.cleanpng.com/lnd/20240806/uc/a1e8295817452f5e68658dc5015670.webp"  />
 </div>
 
 ###
