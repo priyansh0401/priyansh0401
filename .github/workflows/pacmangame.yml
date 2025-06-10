@@ -1,35 +1,31 @@
-name: Update Pac-Man Contribution Graph
+name: generate pacman game
 
 on:
-  schedule:
-    - cron: '0 0 * * *'  # Runs every day at midnight UTC
-  workflow_dispatch:
-  push:
+  schedule: # Run automatically every 24 hours
+    - cron: "0 */24 * * *"
+  workflow_dispatch: # Allows manual triggering
+  push: # Runs on every push to the main branch
     branches:
       - main
 
 jobs:
-  deploy:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
 
-      - name: Switch to output branch
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git fetch origin
-          git switch --create output || git switch output
-
-      - name: Copy Pac-Man SVGs to root
-        run: |
-          rm -rf *
-          cp -r pacman-assets/*.svg .  # Make sure this path matches where your SVGs are
-
-      - name: Commit and push changes
-        run: |
-          git add .
-          git commit -m "Update Pac-Man contribution graph" || echo "No changes to commit"
-          git push origin output
+      # Push the generated SVG to the output branch
+      - name: push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
