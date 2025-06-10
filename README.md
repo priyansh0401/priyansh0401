@@ -4,6 +4,14 @@
 
 ---
 
+## 💭 Daily Developer Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Developer Quote" />
+</div>
+
+---
+
 ## 🚀 About Me
 
 **A Passionate Computer Science Student from Thapar Institute**
