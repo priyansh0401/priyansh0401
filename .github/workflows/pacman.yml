@@ -1,10 +1,10 @@
 name: Generate Pac-Man Contribution Graph
 
 on:
-  # Run the workflow once a day at midnight
+  # Runs daily at midnight UTC
   schedule:
     - cron: '0 0 * * *'
-  # Also run it when the workflow file is pushed or manually triggered
+  # Also allows manual trigger and runs on push to main
   workflow_dispatch:
   push:
     branches:
@@ -19,30 +19,26 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Set up Python if your Pac-Man script uses it
+      # Set up Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      # Install dependencies (adjust if not using requirements.txt)
-      - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
-
-      # Run your Pac-Man script (replace with actual command)
+      # Run your Pac-Man animation generator script
       - name: Generate Pac-Man animation
         run: |
-          python generate_pacman.py  # Replace with your actual script
+          python generate_pacman.py  # Replace with your actual script name if different
 
-      # Commit and push the generated SVG to the `output` branch
+      # Push the generated SVG(s) to the output branch
       - name: Push output to the output branch
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
-          git checkout --orphan output
-          git rm -rf .
-          mv path/to/generated/*.svg .  # Update path accordingly
+          git fetch origin
+          git switch --create output || git switch output
+          rm -rf *
+          cp path/to/generated/*.svg .  # Replace with actual path to SVGs
           git add .
-          git commit -m "Update Pac-Man contribution graph"
-          git push -f origin output
+          git commit -m "Update Pac-Man contribution graph" || echo "No changes to commit"
+          git push origin output
