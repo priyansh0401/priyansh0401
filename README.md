@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://png.pngtree.com/png-clipart/20231109/original/pngtree-programmer-it-developer-png-image_13520483.png"  />
+  <img height="200" src="https://images.creativefabrica.com/products/previews/2024/03/08/5WxZNiBA0/2dPVJcOS0XtBIinwWjY4R4KS3JY-mobile.jpg"  />
 </div>
 
 ###
