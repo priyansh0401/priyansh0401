@@ -10,10 +10,10 @@
 
 **A Passionate Computer Science Student from Thapar Institute**
 
-🔭 **Currently Working On:** Data Structures & Algorithms (DSA)  
-🌱 **Currently Learning:** MERN Stack Development  
-💬 **Ask Me About:** C++, Web Development, SQL, or Leetcode Strategies  
-⚡ **Fun Fact:** I love building cool projects that solve real-world problems!
+🔭 **Currently Working On:** Guardian Eye(Smart CCTV project) and PayBand(Payment watch project)  
+🌱 **Currently Learning:** Full Stack Web Development, Data Structures & Algorithms (DSA)  
+💬 **Ask Me About:** Python, C++, Web Development, or Leetcode Strategies  
+
 
 ---
 
